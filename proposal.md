@@ -1,7 +1,7 @@
 
 # American Personal Consumption Expenditures by Type of Product
 
-## An analysis of consumer food and beverages purchased for off-premises consumption over 40 years
+## An analysis of consumer food and beverages purchased for off-premises consumption over 60 years
 
 Though cereal grabbed headlines as having unprecedented sales in unprecedented times, was that the standout story of 2020 personal consumption in the United States? 
 Items outside of grocery staples saw a significant increase in 2020, not just Cereal. A further exploration will reveal interesting details about the growth of other products in 2020 Including alcoholic beverages, sweets and coffee, tea and other beverage materials. This analysis will show that we can develop different and sometimes opposing stories depending on the data presented and how it is aggregated. 
