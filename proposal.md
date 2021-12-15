@@ -3,7 +3,7 @@
 
 ## An analysis of consumer food and beverages purchased for off-premises consumption over 60 years
 
-[View the visualization here](https://public.tableau.com/app/profile/sasha.girling/viz/TrendsinUSPersonalConsumptionExpendituresbyTypeofProduct/Trendanalysis)
+### [View the Tableau visualization here](https://public.tableau.com/app/profile/sasha.girling/viz/TrendsinUSPersonalConsumptionExpendituresbyTypeofProduct/Trendanalysis)
 
 Though cereal grabbed headlines as having unprecedented sales in unprecedented times, was that the standout story of 2020 personal consumption in the United States? 
 Items outside of grocery staples saw a significant increase in 2020, not just Cereal. A further exploration reveals interesting details about the growth of other products in 2020 Including alcoholic beverages, sweets and coffee, tea and other beverage materials. This analysis demonstrates that we can develop different and sometimes opposing stories  by changing the way data is presented and how it is aggregated. 
