@@ -3,7 +3,7 @@
 
 ## An analysis of consumer food and beverages purchased for off-premises consumption over 60 years
 
-[View the visualization here](https://public.tableau.com/app/profile/sasha.girling/viz/TrendsinUSPersonalConsumptionExpendituresbyTypeofProduct/Trendanalysis)\
+[View the visualization here](https://public.tableau.com/app/profile/sasha.girling/viz/TrendsinUSPersonalConsumptionExpendituresbyTypeofProduct/Trendanalysis)
 
 Though cereal grabbed headlines as having unprecedented sales in unprecedented times, was that the standout story of 2020 personal consumption in the United States? 
 Items outside of grocery staples saw a significant increase in 2020, not just Cereal. A further exploration reveals interesting details about the growth of other products in 2020 Including alcoholic beverages, sweets and coffee, tea and other beverage materials. This analysis demonstrates that we can develop different and sometimes opposing stories  by changing the way data is presented and how it is aggregated. 
@@ -13,8 +13,7 @@ This exploration is intended as a base level visual illustration of the growth r
 Secondly these visualizations focus specifically on 2020 total sales by category and the changes and growth in comparison to 2019 and how these views can change the data story.
 
 #### Description of the dataset Personal Consumption Expenditures
-The dataset used for this analysis is Personal Consumption Expenditures by Type of Product originally comes from the Bureau of Economic Analysis and was brought to the wider attention when it was used in the [Bloomberg article]
-(https://www.bloomberg.com/opinion/articles/2021-02-24/beyond-grape-nuts-cereal-makers-had-a-very-weird-year)
+The dataset used for this analysis is Personal Consumption Expenditures by Type of Product originally comes from the Bureau of Economic Analysis and was brought to the wider attention when it was used in this [Bloomberg article](https://www.bloomberg.com/opinion/articles/2021-02-24/beyond-grape-nuts-cereal-makers-had-a-very-weird-year)
 
 Details about the data set include that it contains Personal Consumption Expenditures on food and beverages purchased for off-premises consumption, this confirms that the data excludes any premises such as restaurants or cafes. Also that the measures are in millions of dollars; quarters and months are seasonally adjusted at annual rates.
 
